@@ -3,3 +3,5 @@ This is a chapter 1 test.
 Edit.
 
 Edit 001.
+
+Edit 0002. Everything is destroyed.
