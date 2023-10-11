@@ -1,5 +1,6 @@
 # https://github.com/github/gitignore/blob/main/Node.gitignore
 
+#Project-wide
 .DS_Store
 
 # Logs
