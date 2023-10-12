@@ -7,3 +7,5 @@ Edit 001.
 Edit 0002. Everything is destroyed.
 
 Edit 010. Alien plot stuff.
+
+Edit 011; trying git commit without a message to see what it does exactly.
